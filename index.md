@@ -9,6 +9,9 @@ I am a student of the Master Degree in Computer Science at the University of Tre
 - __UNIVERSITY OF TRENTO__<br/>
 ___Master Degree__ in Computer Science | September 2019 - now_
 
+- __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
+___Training program__ in cybersecurity | March 2021 - now_
+
 - __UNIVERSITY OF TRENTO__<br/>
 ___Bachelor Degree__ in Computer Science | October 2016 - July 2019_<br/>
 ___Mark__: 109 out of 110_
@@ -18,24 +21,40 @@ ___Technical school diploma - technological sector__ in Computer Science_<br/>
 ___Mark__: 96 out of 100_
 
 
-## Experiences
+## Professional experiences
 - __FONDAZIONE BRUNO KESSLER__<br/>
 ___Internship__ held in via Sommarive 18, Povo (TN) | March - July 2019_<br/>
 _Security analysis of the OAuth2 authorization protocol and study of innovative solutions for its protection (Token-Binding, MTLS and DPoP)_
 - __KEEP IN TOUCH S.R.L.__<br/>
 ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
-_Company specialized in the development of e-commerce websites in php_
+_Company specialized in the development of e-commerce websites_
 
 ## Skills
+
+### Development skills
 - Desktop applications development in __C/C++, Java, Python and Golang__
-- System scripting in __Bash__
+- System scripting in __Bash__ and __Python__
 - Web applications development (backend) in __Java, php and NodeJS__
 - Web applications development (frontend) with entry-level knowledge in __Angular and React__
 - Android application development in __Java__
 - iOS application development with entry-level knowledge in __Objective-C and Swift__
 - Development of medium-small applications for __Arduino__
 
-## Other
+## Personal experiences
+
+### Capture the flag
+- [HackTheBoxCTF - Cyber Apocalypse 2021](https://ctf.hackthebox.eu/) with UniTN team
+- [AngstromCTF](https://2021.angstromctf.com/) (2021) with UniTN team
+
+### Hackathons
+- [#CodeVSCovid19](https://www.codevscovid19.org/) (2020)
+- UniTN ICT Days of [2018](http://2018.ictdays.it/) and [2019](http://2019.ictdays.it/)
+- [Milano@Work](https://www.hackathon.com/event/milanowork---un-hackathon-per-esplorare-le-trasformazioni-della-nella-citta-29596132830) (2016)
+
+### Coding competitions
+- [Google HashCode](https://codingcompetitions.withgoogle.com/hashcode/) of 2018 and 2019
 
 
 ## Personal projects
+- __INTERCEPTOR__: Application-level firewall in Golang for flag protection in CTF attack/defense competitions with web interface in React
+- __PICHAT__: Android application for encrypted messages with centralized Java server
