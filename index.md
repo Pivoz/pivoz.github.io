@@ -22,23 +22,43 @@ ___Mark__: 96 out of 100_
 
 
 ## Professional experiences
+- __ADAMI ALDO & C. S.n.c.__<br/>
+___Technical consultant__ held in via Gramsci 1/N-O, Porto Mantovano (MN) | June - August 2020_<br/>
+_Consultancy for the training of technical personnel_
+
 - __FONDAZIONE BRUNO KESSLER__<br/>
 ___Internship__ held in via Sommarive 18, Povo (TN) | March - July 2019_<br/>
 _Security analysis of the OAuth2 authorization protocol and study of innovative solutions for its protection (Token-Binding, MTLS and DPoP)_
+
 - __KEEP IN TOUCH S.R.L.__<br/>
 ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Company specialized in the development of e-commerce websites_
 
 ## Skills
 
-### Development skills
+### Cybersecurity
+- Cybersecurity risk assessment with __SESAR SecRAM__ methodology
+- Attack/Defense CTF held during the master degree where, together with other colleagues, several custom scripts for vulnerability exploiting and monitoring have been developed
+
+### Development
 - Desktop applications development in __C/C++, Java, Python and Golang__
 - System scripting in __Bash__ and __Python__
-- Web applications development (backend) in __Java, php and NodeJS__
-- Web applications development (frontend) with entry-level knowledge in __Angular and React__
+- Web applications development (backend) in __Java__, __php__ and __NodeJS__
+- Web applications development (frontend) in __HTML__, __CSS__ and __Javascript__
 - Android application development in __Java__
-- iOS application development with entry-level knowledge in __Objective-C and Swift__
+- iOS application development with entry-level knowledge in __Objective-C__ and __Swift__
 - Development of medium-small applications for __Arduino__
+
+### Frameworks and tools I have worked with
+- __Angular__ and __React__ for small web applications development
+- __Apache Spark__ for distributed data mining computations
+- __PyTorch__ for base neural networks design
+- __Docker__, __Kubernetes__ and __Terraform__ for automatic (micro)service architectures deployment
+- __OpenStack__ for virtual machines deployment
+- __OpenCV__ for image and video manipulation
+
+### Other
+- Design of SQL databases (e.g., __MySQL__) and NoSQL ones (e.g., __MongoDB__)
 
 ## Personal experiences
 
@@ -56,5 +76,8 @@ _Company specialized in the development of e-commerce websites_
 
 
 ## Personal projects
-- __INTERCEPTOR__: Application-level firewall in Golang for flag protection in CTF attack/defense competitions with web interface in React
-- __PICHAT__: Android application for encrypted messages with centralized Java server
+- __INTERCEPTOR__ <br/>
+Application-level firewall in Golang for flag protection in CTF attack/defense competitions with web interface in React
+
+- __PICHAT__ <br/>
+Android application for encrypted messages with centralized Java server
