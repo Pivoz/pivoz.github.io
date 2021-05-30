@@ -36,6 +36,10 @@ _Company specialized in the development of e-commerce websites_
 
 ## Skills
 
+### Languages
+- __Italian C2__ (mother tongue)
+- __English B2__ level achieved at [CLA UniTN](https://www.cla.unitn.it/)
+
 ### Cybersecurity
 - Cybersecurity risk assessment with __SESAR SecRAM__ methodology
 - Attack/Defense CTF held during the master degree where, together with other colleagues, several custom scripts for vulnerability exploiting and monitoring have been developed
