@@ -8,9 +8,11 @@ I am a student of the Master Degree in Computer Science at the University of Tre
 ## Education
 - __UNIVERSITY OF TRENTO__<br/>
 ___Master Degree__ in Computer Science | September 2019 - now_
+_Focus on __Artificial Intelligence__ and __Cybersecurity___
 
 - __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
 ___Training program__ in cybersecurity | March 2021 - now_
+_Member of UniTrento team at the national competition_
 
 - __UNIVERSITY OF TRENTO__<br/>
 ___Bachelor Degree__ in Computer Science | October 2016 - July 2019_<br/>
