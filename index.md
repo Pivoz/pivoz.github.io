@@ -5,6 +5,8 @@
 
 I am a student of the Master Degree in Computer Science at the University of Trento. My main interests lie within network and system security together with Machine Learning. 
 
+__Email__: davide[dot]piva[at]icloud[dot]com 
+
 ## Education
 - __UNIVERSITY OF TRENTO__<br/>
 <i>__Master Degree__ in Computer Science | September 2019 - now</i><br/>
@@ -41,6 +43,13 @@ _Company specialized in the development of e-commerce websites_
 ### Languages
 - __Italian C2__ (mother tongue)
 - __English B2__ level achieved at [CLA UniTN](https://www.cla.unitn.it/)
+
+### Soft skills
+- Good __organization__ and __teamwork__ skills
+- Good __resistance to stress__ and relative control
+- __Precision__ and __attention__ to detail
+- Desire to always __keep up to date__
+- Good __problem solving__ skills
 
 ### Cybersecurity
 - Cybersecurity risk assessment with __SESAR SecRAM__ methodology
