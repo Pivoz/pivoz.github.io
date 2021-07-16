@@ -13,8 +13,8 @@ __Email__: davide[dot]piva[at]icloud[dot]com
 <i>Focus on __Artificial Intelligence__ and __Cybersecurity__</i>
 
 - __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
-___Training program__ in cybersecurity | March 2021 - now_<br/>
-_Member of UniTrento team at the national competition_
+___Training program__ in cybersecurity | March - July 2021_<br/>
+_Member of UniTrento team at the national competition - 5<sup>th</sup> place out of 33 participating universities_
 
 - __UNIVERSITY OF TRENTO__<br/>
 ___Bachelor Degree__ in Computer Science | October 2016 - July 2019_<br/>
