@@ -36,7 +36,7 @@ _Security analysis of the OAuth2 authorization protocol and study of innovative 
 
 - __KEEP IN TOUCH S.R.L.__<br/>
 ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
-_Company specialized in the development of e-commerce websites_
+_Development of e-commerce websites_
 
 ## Skills
 
@@ -67,7 +67,7 @@ _Company specialized in the development of e-commerce websites_
 ### Frameworks and tools I have worked with
 - __Angular__ and __React__ for small web applications development
 - __Apache Spark__ for distributed data mining computations
-- __PyTorch__ for base neural networks design
+- __PyTorch__ for neural networks design
 - __Docker__, __Kubernetes__ and __Terraform__ for automatic (micro)service architectures deployment
 - __OpenStack__ for virtual machines deployment
 - __OpenCV__ for image and video manipulation
