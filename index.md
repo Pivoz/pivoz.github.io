@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Pivoz)
 
-I am a student of the Master Degree in Computer Science at the University of Trento. My main interests lie within network and system security together with Machine Learning. 
+I am a student of the Master Degree in Computer Science at the University of Trento and a Security Analyst at Bip Consulting. My main interests lie within network and system security together with Machine Learning. 
 
 __Email__: davide[dot]piva[at]icloud[dot]com 
 
@@ -13,16 +13,8 @@ __Email__: davide[dot]piva[at]icloud[dot]com
 <i>Focus on __Artificial Intelligence__ and __Cybersecurity__</i>
 
 - __Bip-Qibit Cybersecurity academy__<br/>
-<i>__Academy__ in cybersecurity | November - December 2021</i>
-<details>
-<summary><i>200 hours academy in  (full topic list in the dropdown menù)</i></summary>
-<br>
-<ul>
-<li>a</li>
-<li>b</li>
-<li>c</li>
-</ul>
-</details>
+<i>__Academy__ in cybersecurity | November - December 2021</i><br/>
+<i></i>
 
 - __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
 ___Training program__ in cybersecurity | March - July 2021_<br/>
