@@ -13,7 +13,7 @@ __Email__: davide[dot]piva[at]icloud[dot]com
 <i>Focus on __Artificial Intelligence__ and __Cybersecurity__</i>
 
 - __Bip-Qibit Cybersecurity academy__<br/>
-<i>__Academy__ in cybersecurity | November - December 2021</i><br/>
+<i>__Academy__ in cybersecurity | November - December 2021</i>
 <details>
 <summary><i>200 hours academy in  (full topic list in the dropdown menù)</i></summary>
 <br>
