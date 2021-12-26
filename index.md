@@ -12,6 +12,18 @@ __Email__: davide[dot]piva[at]icloud[dot]com
 <i>__Master Degree__ in Computer Science | September 2019 - now</i><br/>
 <i>Focus on __Artificial Intelligence__ and __Cybersecurity__</i>
 
+- __Bip-Qibit Cybersecurity academy__<br/>
+<i>__Academy__ in cybersecurity | November - December 2021</i><br/>
+<details>
+<summary><i>200 hours academy in  (full topic list in the dropdown menù)</i></summary>
+<br>
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
+</details>
+
 - __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
 ___Training program__ in cybersecurity | March - July 2021_<br/>
 _Member of UniTrento team at the national competition - 5<sup>th</sup> place out of 33 participating universities_
@@ -26,12 +38,16 @@ ___Mark__: 96 out of 100_
 
 
 ## Professional experiences
+- __HWG S.R.L.__<br/>
+___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - now_<br/>
+_Security analysis of three industrial protocols: Modbus, DNP3, Ethernet/IP. Design and implementation of IBM Qradar rules to detect specific attacks against ICS infrastructures_
+
 - __ADAMI ALDO & C. S.n.c.__<br/>
 ___Technical consultant__ held in via Gramsci 1/N-O, Porto Mantovano (MN) | June - August 2020_<br/>
 _Consultancy for the training of technical personnel_
 
 - __FONDAZIONE BRUNO KESSLER__<br/>
-___Internship__ held in via Sommarive 18, Povo (TN) | March - July 2019_<br/>
+___Internship and thesis partnership__ held in via Sommarive 18, Povo (TN) | March - July 2019_<br/>
 _Security analysis of the OAuth2 authorization protocol and study of innovative solutions for its protection (Token-Binding, MTLS and DPoP)_
 
 - __KEEP IN TOUCH S.R.L.__<br/>
