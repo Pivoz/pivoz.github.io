@@ -32,7 +32,7 @@ ___Mark__: 96 out of 100_
 ## Professional experiences
 - __BIP Business Integration Partners S.p.A. - CyberSec__<br/>
 ___Cyber Security Analyst__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th</sup> January 2022 - now_<br/>
-_Cyber Defence Blue Team cyber security analyst_
+_Cyber Defence Blue Team_
 
 - __HWG S.R.L.__<br/>
 ___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - now_<br/>
