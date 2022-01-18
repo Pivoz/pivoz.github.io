@@ -30,9 +30,13 @@ ___Mark__: 96 out of 100_
 
 
 ## Professional experiences
+- __BIP Business Integration Partners S.p.A. - CyberSec__<br/>
+___Cyber Security Analyst__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th</sup> January 2022 - now_<br/>
+_Cyber Defence Blue Team cyber security analyst_
+
 - __HWG S.R.L.__<br/>
 ___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - now_<br/>
-_Security analysis of three industrial protocols: Modbus, DNP3, Ethernet/IP. Design and implementation of IBM Qradar rules to detect specific attacks against ICS infrastructures_
+_Security analysis of three industrial protocols: Modbus, DNP3, Ethernet/IP. Design and implementation of IBM Qradar rules to detect specific attacks against OT infrastructures_
 
 - __ADAMI ALDO & C. S.n.c.__<br/>
 ___Technical consultant__ held in via Gramsci 1/N-O, Porto Mantovano (MN) | June - August 2020_<br/>
