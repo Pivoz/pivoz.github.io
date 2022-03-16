@@ -9,8 +9,9 @@ __Email__: davide[dot]piva[at]icloud[dot]com
 
 ## Education
 - __UNIVERSITY OF TRENTO__<br/>
-<i>__Master Degree__ in Computer Science | September 2019 - now</i><br/>
+<i>__Master Degree__ in Computer Science | September 2019 - March 2022</i><br/>
 <i>Focus on __Artificial Intelligence__ and __Cybersecurity__</i>
+___Mark__: 108 out of 110_
 
 - __Bip-Qibit Cybersecurity academy__<br/>
 <i>__Academy__ in cybersecurity | November - December 2021</i><br/>
