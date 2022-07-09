@@ -57,20 +57,12 @@ _Development of e-commerce websites_
 
 ## Skills
 
-### Languages
-- __Italian C2__ (mother tongue)
-- __English B2__ level achieved at [CLA UniTN](https://www.cla.unitn.it/)
-
-### Soft skills
-- Good __organization__ and __teamwork__ skills
-- Good __resistance to stress__ and relative control
-- __Precision__ and __attention__ to detail
-- Desire to always __keep up to date__
-- Good __problem solving__ skills
-
 ### Cybersecurity
+- Vulnerability Management activities with __Qualys__
 - Cybersecurity risk assessment with __SESAR SecRAM__ methodology
-- Attack/Defense CTF held during the master degree where, together with other colleagues, several custom scripts for vulnerability exploiting and monitoring have been developed
+
+#### Tools I have worked with
+- __Qualys Cloud Platform__ for Vulnerability Assessment and Vulnerability Management activities
 
 ### Development
 - Desktop applications development in __C/C++, Java, Python and Golang__
@@ -81,13 +73,25 @@ _Development of e-commerce websites_
 - iOS application development with entry-level knowledge in __Objective-C__ and __Swift__
 - Development of medium-small applications for __Arduino__
 
-### Frameworks and tools I have worked with
+#### Frameworks and tools I have worked with
+- __PwnTools__ Python library for exploit development
 - __Angular__ and __React__ for small web applications development
 - __Apache Spark__ for distributed data mining computations
 - __PyTorch__ for neural networks design
 - __Docker__, __Kubernetes__ and __Terraform__ for automatic (micro)service architectures deployment
 - __OpenStack__ for virtual machines deployment
 - __OpenCV__ for image and video manipulation
+
+### Languages
+- __Italian C2__ (mother tongue)
+- __English B2__ level achieved at [CLA UniTN](https://www.cla.unitn.it/)
+
+### Soft skills
+- Good __organization__ and __teamwork__ skills
+- Good __resistance to stress__ and relative control
+- __Precision__ and __attention__ to detail
+- Desire to always __keep up to date__
+- Good __problem solving__ skills
 
 ### Other
 - Design of SQL databases (e.g., __MySQL__) and NoSQL ones (e.g., __MongoDB__)
