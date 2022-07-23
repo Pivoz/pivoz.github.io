@@ -40,7 +40,7 @@ ___Cyber Security Analyst__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th
 _Cyber Defence Blue Team_
 
 - __HWG S.R.L.__<br/>
-___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - now_<br/>
+___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - March 2022_<br/>
 _Security analysis of three industrial protocols: Modbus, DNP3, Ethernet/IP. Design and implementation of IBM Qradar rules to detect specific attacks against OT infrastructures_
 
 - __ADAMI ALDO & C. S.n.c.__<br/>
