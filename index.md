@@ -56,7 +56,7 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
-- __[eLearnSecurity Certified Digital Forensics Professionals - eCDFP](./res/eCDFP_certificate.pdf)__<br/>
+- __<a href="./res/eCDFP_certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professionals - eCDFP</a>__<br/>
 Achieved on: 22<sup>nd</sup> September 2022<br/> 
 Valid until: &infin;
 
