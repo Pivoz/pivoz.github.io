@@ -56,7 +56,11 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
-- __<a href="./res/eCDFP_certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professionals - eCDFP</a>__<br/>
+- __<a href="./res/CCFH_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Hunter - CCFH</a>__<br/>
+Achieved on: 30<sup>th</sup> January 2023<br/>
+Valid until: 30<sup>th</sup> January 2026<br/>
+
+- __<a href="./res/eCDFP_Certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professionals - eCDFP</a>__<br/>
 Achieved on: 22<sup>nd</sup> September 2022<br/> 
 Valid until: &infin;
 
