@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Pivoz)
 
-I am a Security Analyst of the Cyber Defense Blue Team at Bip CyberSec. My main interests lie within network and system security together with Machine Learning. 
+I am a Security Consultant of the Cyber Defense Security Intelligence & Blue Team at Bip CyberSec. My main interests lie within network and system security together with machine learning. 
 
 __Email__: davide[dot]piva[at]icloud[dot]com 
 
@@ -32,12 +32,12 @@ ___Mark__: 96 out of 100_
 
 ## Professional experiences
 - __BIP Business Integration Partners S.p.A. - CyberSec__<br/>
-___Cyber Security Analyst__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th</sup> March 2022 - now_<br/>
-_Cyber Defence Blue Team_
+___Cyber Security Consultant__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th</sup> March 2022 - now_<br/>
+_Cyber Defence Security Intelligence & Blue Team_
 
 - __GiGroup S.p.A. (assigned @ BIP Business Integration Partners S.p.A. - CyberSec)__<br/>
 ___Cyber Security Analyst__ held in Piazza San Babila 5, Milano (MI) | 10<sup>th</sup> January 2022 - 9<sup>th</sup> March 2022_<br/>
-_Cyber Defence Blue Team_
+_Cyber Defence Security Intelligence & Blue Team_
 
 - __HWG S.R.L.__<br/>
 ___Thesis partnership__ held in via Enrico Fermi 15/E, Verona (VR) | October 2021 - March 2022_<br/>
