@@ -56,6 +56,18 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
+- __<a href="./res/CCFA_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Administrator - CCFA</a>__<br/>
+Achieved on: 13<sup>th</sup> July 2023<br/>
+Valid until: 13<sup>th</sup> July 2026<br/>
+
+- __<a href="./res/CCFR_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Responder - CCFH</a>__<br/>
+Achieved on: 2<sup>nd</sup> July 2023<br/>
+Valid until: 2<sup>nd</sup> July 2026<br/>
+
+- __<a href="./res/SCCU_Certificate.pdf" target="_blank">Splunk Core Certified User</a>__<br/>
+Achieved on: 28<sup>th</sup> May 2023<br/>
+Valid until: 28<sup>th</sup> May 2026<br/>
+
 - __<a href="./res/CCFH_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Hunter - CCFH</a>__<br/>
 Achieved on: 30<sup>th</sup> January 2023<br/>
 Valid until: 30<sup>th</sup> January 2026<br/>
