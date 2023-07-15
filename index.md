@@ -60,7 +60,7 @@ _Development of e-commerce websites_
 Achieved on: 13<sup>th</sup> July 2023<br/>
 Valid until: 13<sup>th</sup> July 2026<br/>
 
-- __<a href="./res/CCFR_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Responder - CCFH</a>__<br/>
+- __<a href="./res/CCFR_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Responder - CCFR</a>__<br/>
 Achieved on: 2<sup>nd</sup> July 2023<br/>
 Valid until: 2<sup>nd</sup> July 2026<br/>
 
