@@ -56,6 +56,10 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
+- __<a href="./res/eCMAP_Certificate.pdf" target="_blank">eLearnSecurity Certified Malware Analysis Professional - eCMAP</a>__<br/>
+Achieved on: 21<sup>st</sup> October 2023<br/> 
+Valid until: &infin;
+
 - __<a href="./res/CCFA_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Administrator - CCFA</a>__<br/>
 Achieved on: 13<sup>th</sup> July 2023<br/>
 Valid until: 13<sup>th</sup> July 2026<br/>
@@ -72,7 +76,7 @@ Valid until: 28<sup>th</sup> May 2026<br/>
 Achieved on: 30<sup>th</sup> January 2023<br/>
 Valid until: 30<sup>th</sup> January 2026<br/>
 
-- __<a href="./res/eCDFP_Certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professionals - eCDFP</a>__<br/>
+- __<a href="./res/eCDFP_Certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professional - eCDFP</a>__<br/>
 Achieved on: 22<sup>nd</sup> September 2022<br/> 
 Valid until: &infin;
 
