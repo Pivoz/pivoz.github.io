@@ -17,7 +17,7 @@ ___Mark__: 108 out of 110_
 <i>__Academy__ in cybersecurity | November - December 2021</i><br/>
 <i></i>
 
-- __[CYBERCHALLENGE.IT 2021](https://cyberchallenge.it/)__<br/>
+- __[CYBERCHALLENGE.IT](https://cyberchallenge.it/)__<br/>
 ___Training program__ in cybersecurity | March - July 2021_<br/>
 _Member of UniTrento team at the national competition - 5<sup>th</sup> place out of 33 participating universities_
 
@@ -83,15 +83,35 @@ Valid until: &infin;
 ## Skills
 
 ### Cybersecurity
-- Vulnerability Management activities with __Qualys__
-- Cybersecurity risk assessment with __SESAR SecRAM__ methodology
+- Security Intelligence
+- Incident Response
+- Malware Analysis
+- Digital Forensics
+- Threat Hunting
+- Vulnerability Management
+- Hardening
+- Patching
+- Security Monitoring
+- Digital Footprint
+- Cyber Risk assessment
 
-#### Tools I have worked with
-- __Qualys Cloud Platform__ for Vulnerability Assessment and Vulnerability Management activities
+#### Main products, frameworks and tools I have worked with
+- CrowdStrike Falcon
+- Microsoft Defender for Endpoint
+- Cybereason
+- Cyberint
+- Qualys Cloud Platform
+- Nessus
+- OpenVAS
+- Splunk
+- IBM QRadar
+- Security Onion
+- Symantec Control Compliance Suite
+- SESAR SecRAM
 
 ### Development
-- Desktop applications development in __C/C++, Java, Python and Golang__
-- System scripting in __Bash__ and __Python__
+- Software development in __C/C++, Java, Python and Golang__
+- System scripting in __Bash__, __PowerShell__ and __Python__
 - Web applications development (backend) in __Java__, __php__ and __NodeJS__
 - Web applications development (frontend) in __HTML__, __CSS__ and __Javascript__
 - Android application development in __Java__
@@ -100,7 +120,7 @@ Valid until: &infin;
 
 #### Frameworks and tools I have worked with
 - __PwnTools__ Python library for exploit development
-- __Angular__ and __React__ for small web applications development
+- __Angular__ and __React__ for web applications development
 - __Apache Spark__ for distributed data mining computations
 - __PyTorch__ for neural networks design
 - __Docker__, __Kubernetes__ and __Terraform__ for automatic (micro)service architectures deployment
