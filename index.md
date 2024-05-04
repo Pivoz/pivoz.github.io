@@ -56,6 +56,10 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
+- __<a href="./res/eCPPT_Certificate.pdf" target="_blank">eLearnSecurity Certified Professional Penetration Tester - eCPPT</a>__<br/>
+Achieved on: 23<sup>rd</sup> April 2024<br/> 
+Valid until: &infin;
+
 - __<a href="./res/eCMAP_Certificate.pdf" target="_blank">eLearnSecurity Certified Malware Analysis Professional - eCMAP</a>__<br/>
 Achieved on: 21<sup>st</sup> October 2023<br/> 
 Valid until: &infin;
