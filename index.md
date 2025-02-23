@@ -109,11 +109,12 @@ Valid until: &infin;
     <tbody>
         <!-- ROW 1 -->
         <tr>
-            <td rowspan=4>Cyber Threat Intelligence</td>
+            <td rowspan=5>Cyber Threat Intelligence</td>
             <td>Cyberint Argos</td>
         </tr>
         <tr><td>Bitsight</td></tr>
         <tr><td>MISP</td></tr>
+        <tr><td>Google Dorks</td></tr>
         <tr><td>OSINT services and repos</td></tr>
         <!-- ROW 2 -->
         <tr>
@@ -125,9 +126,10 @@ Valid until: &infin;
         <tr><td>Cybereason</td></tr>
         <!-- ROW 3 -->
         <tr>
-            <td rowspan=4>Vulnerability Management</td>
+            <td rowspan=5>Vulnerability Management</td>
             <td>Qualys</td>
         </tr>
+        <tr><td>CrowdStrike Spotlight</td></tr>
         <tr><td>Tenable Nessus</td></tr>
         <tr><td>Tenable.io</td></tr>
         <tr><td>OpenVAS</td></tr>
