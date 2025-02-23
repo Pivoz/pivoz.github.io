@@ -1,11 +1,11 @@
 # All About Me
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Pivoz)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Pivoz)
 
 I am a Security Consultant of the Cyber Defense Security Intelligence & Blue Team at Bip CyberSec. My main interests lie within network and system security together with machine learning. 
 
-__Email__: davide[dot]piva[at]icloud[dot]com 
+__Email__: davide[dot]piva97[at]gmail[dot]com 
 
 ## Education
 - __UNIVERSITY OF TRENTO__<br/>
@@ -86,8 +86,8 @@ Valid until: &infin;
 
 ## Skills
 
-### Cybersecurity
-- Security Intelligence
+### Cybersecurity experience and activities
+- Cyber Threat Intelligence
 - Incident Response
 - Malware Analysis
 - Digital Forensics
@@ -99,18 +99,64 @@ Valid until: &infin;
 - Digital Footprint
 - Cyber Risk assessment
 
-#### Main products, frameworks and tools I have worked with
-- CrowdStrike Falcon
-- Microsoft Defender for Endpoint
-- Cybereason
-- Cyberint
-- Qualys Cloud Platform
-- Nessus
-- OpenVAS
-- Splunk
-- IBM QRadar
-- Security Onion
-- Symantec Control Compliance Suite
+<table>
+    <thead>
+        <tr>
+            <th>Cybersecurity area</th>
+            <th>Known and used products & tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- ROW 1 -->
+        <tr>
+            <td rowspan=4>Cyber Threat Intelligence</td>
+            <td>Cyberint Argos</td>
+        </tr>
+        <tr><td>Bitsight</td></tr>
+        <tr><td>MISP</td></tr>
+        <tr><td>OSINT services and repos</td></tr>
+        <!-- ROW 2 -->
+        <tr>
+            <td rowspan=4>EDR/XDR Technologies</td>
+            <td>CrowdStrike Falcon</td>
+        </tr>
+        <tr><td>Microsoft Defender for Endpoint</td></tr>
+        <tr><td>TrendMicro</td></tr>
+        <tr><td>Cybereason</td></tr>
+        <!-- ROW 3 -->
+        <tr>
+            <td rowspan=4>Vulnerability Management</td>
+            <td>Qualys</td>
+        </tr>
+        <tr><td>Tenable Nessus</td></tr>
+        <tr><td>Tenable.io</td></tr>
+        <tr><td>OpenVAS</td></tr>
+        <!-- ROW 4 -->
+        <tr>
+            <td rowspan=4>SIEM</td>
+            <td>IBM Qradar</td>
+        </tr>
+        <tr><td>Splunk</td></tr>
+        <tr><td>Google Chronicle</td></tr>
+        <tr><td>Security Onion</td></tr>
+        <!-- ROW 5 -->
+        <tr>
+            <td rowspan=3>Security Testing & Hardening</td>
+            <td>Symantec Control Compliance Suite</td>
+        </tr>
+        <tr><td>Picus</td></tr>
+        <tr><td>Pentera</td></tr>
+    </tbody>
+</table>
+
+### Known frameworks
+- MITRE ATT&CK
+- NIST 800-53
+- ISO 27001
+- NATO Open Source Intelligence
+- ENISA
+- Perimetro di Sicurezza Nazionale Cibernetica (PSNC)
+- GDPR
 - SESAR SecRAM
 
 ### Development
@@ -121,6 +167,7 @@ Valid until: &infin;
 - Android application development in __Java__
 - iOS application development with entry-level knowledge in __Objective-C__ and __Swift__
 - Development of medium-small applications for __Arduino__
+- Design of SQL databases (e.g., __MySQL__) and NoSQL ones (e.g., __MongoDB__)
 
 #### Frameworks and tools I have worked with
 - __PwnTools__ Python library for exploit development
@@ -142,9 +189,6 @@ Valid until: &infin;
 - Desire to always __keep up to date__
 - Good __problem solving__ skills
 
-### Other
-- Design of SQL databases (e.g., __MySQL__) and NoSQL ones (e.g., __MongoDB__)
-
 ## Personal experiences
 
 ### Capture the flag
@@ -158,7 +202,6 @@ Valid until: &infin;
 
 ### Coding competitions
 - [Google HashCode](https://codingcompetitions.withgoogle.com/hashcode/) of 2018 and 2019
-
 
 ## Personal projects
 - __INTERCEPTOR__ <br/>
