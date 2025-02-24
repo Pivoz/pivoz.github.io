@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Pivoz)
 
-I am a Security Consultant of the Cyber Defense Security Intelligence & Blue Team at Bip CyberSec. My main interests lie within network and system security together with machine learning. 
+I am a __Security Consultant__ of the __Security Intelligence & Blue Team__ at Bip CyberSec, currently __responsible of the Cyber Threat Intelligence services__. My main interests lie within network and system security together with machine learning. 
 
 __Email__: davide[dot]piva97[at]gmail[dot]com 
 
@@ -109,14 +109,23 @@ Valid until: &infin;
     <tbody>
         <!-- ROW 1 -->
         <tr>
-            <td rowspan=5>Cyber Threat Intelligence</td>
+            <td rowspan=6>Cyber Threat Intelligence</td>
             <td>Cyberint Argos</td>
         </tr>
-        <tr><td>Bitsight</td></tr>
+        <tr><td>Security Scorecard</td></tr>
+        <tr><td>QuoIntelligence</td></tr>
         <tr><td>MISP</td></tr>
         <tr><td>Google Dorks</td></tr>
         <tr><td>OSINT services and repos</td></tr>
         <!-- ROW 2 -->
+        <tr>
+            <td rowspan=4>Attack Surface Management</td>
+            <td>Cyberint Argos</td>
+        </tr>
+        <tr><td>Bitsight</td></tr>
+        <tr><td>CrowdStrike</td></tr>
+        <tr><td>CyCognito</td></tr>
+        <!-- ROW 3 -->
         <tr>
             <td rowspan=4>EDR/XDR Technologies</td>
             <td>CrowdStrike Falcon</td>
@@ -124,7 +133,7 @@ Valid until: &infin;
         <tr><td>Microsoft Defender for Endpoint</td></tr>
         <tr><td>TrendMicro</td></tr>
         <tr><td>Cybereason</td></tr>
-        <!-- ROW 3 -->
+        <!-- ROW 4 -->
         <tr>
             <td rowspan=5>Vulnerability Management</td>
             <td>Qualys</td>
@@ -133,7 +142,7 @@ Valid until: &infin;
         <tr><td>Tenable Nessus</td></tr>
         <tr><td>Tenable.io</td></tr>
         <tr><td>OpenVAS</td></tr>
-        <!-- ROW 4 -->
+        <!-- ROW 5 -->
         <tr>
             <td rowspan=4>SIEM</td>
             <td>IBM Qradar</td>
@@ -141,17 +150,28 @@ Valid until: &infin;
         <tr><td>Splunk</td></tr>
         <tr><td>Google Chronicle</td></tr>
         <tr><td>Security Onion</td></tr>
-        <!-- ROW 5 -->
+        <!-- ROW 6 -->
         <tr>
             <td rowspan=3>Security Testing & Hardening</td>
             <td>Symantec Control Compliance Suite</td>
         </tr>
         <tr><td>Picus</td></tr>
         <tr><td>Pentera</td></tr>
+        <!-- ROW 7 -->
+        <tr>
+            <td rowspan=2>Mobile security</td>
+            <td>CrowdStrike for Mobile</td>
+        </tr>
+        <tr><td>Lookout</td></tr>
+        <!-- ROW 8 -->
+        <tr>
+            <td rowspan=1>Others</td>
+            <td>Netskope</td>
+        </tr>
     </tbody>
 </table>
 
-### Known frameworks
+### Known cybersecurity frameworks
 - MITRE ATT&CK
 - NIST 800-53
 - ISO 27001
