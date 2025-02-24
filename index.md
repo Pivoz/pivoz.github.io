@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Pivoz)
 
-I am a __Security Consultant__ of the __Security Intelligence & Blue Team__ at Bip CyberSec, currently __responsible of the Cyber Threat Intelligence services__. My main interests lie within network and system security together with machine learning. 
+I am a __Security Consultant__ of the __Security Intelligence & Blue Team__ at __Bip CyberSec__, currently __responsible of the Cyber Threat Intelligence services__. My main interests lie within network and system security together with machine learning. 
 
 __Email__: davide[dot]piva97[at]gmail[dot]com 
 
