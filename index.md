@@ -175,6 +175,7 @@ Valid until: &infin;
             <td rowspan=2>Mobile security</td>
             <td>CrowdStrike for Mobile</td>
         </tr>
+        <tr><td>Lookout</td></tr>
         <!-- ROW 8 -->
         <tr>
             <td rowspan=3>Reverse Engineering & Debugger</td>
