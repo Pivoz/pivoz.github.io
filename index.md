@@ -150,6 +150,11 @@ Valid until: &infin;
         <tr><td>Tenable Nessus</td></tr>
         <tr><td>Tenable.io</td></tr>
         <tr><td>OpenVAS</td></tr>
+        <!-- ROW -->
+        <tr>
+            <td rowspan=1>Cloud Security</td>
+            <td>CrowdStrike</td>
+        </tr>
         <!-- ROW 5 -->
         <tr>
             <td rowspan=4>SIEM</td>
@@ -170,8 +175,14 @@ Valid until: &infin;
             <td rowspan=2>Mobile security</td>
             <td>CrowdStrike for Mobile</td>
         </tr>
-        <tr><td>Lookout</td></tr>
         <!-- ROW 8 -->
+        <tr>
+            <td rowspan=3>Reverse Engineering & Debugger</td>
+            <td>Ghidra</td>
+        </tr>
+        <tr><td>IDA</td></tr>
+        <tr><td>GDB</td></tr>
+        <!-- ROW 9 -->
         <tr>
             <td rowspan=1>Others</td>
             <td>Netskope</td>
@@ -192,6 +203,7 @@ Valid until: &infin;
 ### Development
 - Software development in __C/C++, Java, Python and Golang__
 - System scripting in __Bash__, __PowerShell__ and __Python__
+- Low-level programming in __Assembly__ (Intel x86 and C-Extended Assembly)
 - Web applications development (backend) in __Java__, __php__ and __NodeJS__
 - Web applications development (frontend) in __HTML__, __CSS__ and __Javascript__
 - Android application development in __Java__
