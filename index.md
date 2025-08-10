@@ -3,7 +3,9 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/davide-piva-2b7845147/) &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Pivoz)
 
-I am a __Security Consultant__ of the __Security Intelligence & Blue Team__ at __Bip CyberSec__, currently __responsible of the Cyber Threat Intelligence services__. My main interests lie within network and system security together with machine learning. 
+I am a __Security Senior Consultant__ of the __Security Intelligence & Blue Team__ at __Bip CyberSec__, currently __responsible of the Cyber Threat Intelligence services__. 
+
+My main interests lie within __network and system security__ together with __machine learning and artificial intelligence__. 
 
 __Email__: davide[dot]piva97[at]gmail[dot]com 
 
@@ -37,7 +39,8 @@ _Cyber Defence Security Intelligence & Blue Team_
 
   | Role  | Period |
   | ------------- | ------------- |
-  | Security Consultant  | May 2023 - _now_  |
+  | Security Senior Consultant  | July 2025 - _now_  |
+  | Security Consultant  | May 2023 - June 2025  |
   | Security Analyst  | March 2022 - April 2023  |
 
 - __GiGroup S.p.A. (assigned @ BIP Business Integration Partners S.p.A. - CyberSec)__<br/>
