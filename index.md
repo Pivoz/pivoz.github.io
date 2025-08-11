@@ -117,12 +117,13 @@ Valid until: &infin;
     <tbody>
         <!-- ROW 1 -->
         <tr>
-            <td rowspan=6>Cyber Threat Intelligence</td>
+            <td rowspan=7>Cyber Threat Intelligence</td>
             <td>Cyberint Argos</td>
         </tr>
         <tr><td>Security Scorecard</td></tr>
         <tr><td>QuoIntelligence</td></tr>
         <tr><td>MISP</td></tr>
+        <tr><td>OpenCTI</td></tr>
         <tr><td>Google Dorks</td></tr>
         <tr><td>OSINT services and repos</td></tr>
         <!-- ROW 2 -->
