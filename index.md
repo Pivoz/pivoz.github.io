@@ -136,20 +136,20 @@ Valid until: &infin;
         <tr><td>CyCognito</td></tr>
         <!-- ROW 3 -->
         <tr>
-            <td rowspan=4>EDR/XDR Technologies</td>
+            <td rowspan=5>EDR/XDR Technologies</td>
             <td>CrowdStrike Falcon</td>
         </tr>
         <tr><td>Microsoft Defender for Endpoint</td></tr>
         <tr><td>TrendMicro</td></tr>
+        <tr><td>BitDefender</td></tr>
         <tr><td>Cybereason</td></tr>
         <!-- ROW 4 -->
         <tr>
-            <td rowspan=5>Vulnerability Management</td>
+            <td rowspan=4>Vulnerability Management</td>
             <td>Qualys</td>
         </tr>
         <tr><td>CrowdStrike Spotlight</td></tr>
         <tr><td>Tenable Nessus</td></tr>
-        <tr><td>Tenable.io</td></tr>
         <tr><td>OpenVAS</td></tr>
         <!-- ROW -->
         <tr>
@@ -186,7 +186,7 @@ Valid until: &infin;
         <tr><td>GDB</td></tr>
         <!-- ROW 9 -->
         <tr>
-            <td rowspan=1>Others</td>
+            <td rowspan=1>SASE</td>
             <td>Netskope</td>
         </tr>
     </tbody>
