@@ -66,7 +66,7 @@ _Development of e-commerce websites_
 ## Certifications
 - __<a href="./res/ECC-CTIA-Certificate.pdf" target="_blank">EC-Council Certified Threat Intelligence Analyst - CTIA</a>__<br/>
 Achieved on: 27<sup>th</sup> February 2026<br/> 
-Valid until: 27<sup>th</sup> February 2029<br/>
+Valid until: 28<sup>th</sup> February 2029<br/>
 
 - __<a href="./res/eCPPT_Certificate.pdf" target="_blank">eLearnSecurity Certified Professional Penetration Tester - eCPPT</a>__<br/>
 Achieved on: 23<sup>rd</sup> April 2024<br/> 
