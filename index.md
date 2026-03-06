@@ -64,6 +64,10 @@ ___Stage__ held in via Cavour 11, Mantova | June 2015_<br/>
 _Development of e-commerce websites_
 
 ## Certifications
+- __<a href="./res/ECC-CTIA-Certificate.pdf" target="_blank">EC-Council Certified Threat Intelligence Analyst - CTIA</a>__<br/>
+Achieved on: 27<sup>th</sup> February 2026<br/> 
+Valid until: 27<sup>th</sup> February 2029<br/>
+
 - __<a href="./res/eCPPT_Certificate.pdf" target="_blank">eLearnSecurity Certified Professional Penetration Tester - eCPPT</a>__<br/>
 Achieved on: 23<sup>rd</sup> April 2024<br/> 
 Valid until: &infin;
@@ -84,13 +88,14 @@ Valid until: 2<sup>nd</sup> July 2026<br/>
 Achieved on: 28<sup>th</sup> May 2023<br/>
 Valid until: 28<sup>th</sup> May 2026<br/>
 
-- __<a href="./res/CCFH_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Hunter - CCFH</a>__<br/>
-Achieved on: 30<sup>th</sup> January 2023<br/>
-Valid until: 30<sup>th</sup> January 2026<br/>
-
 - __<a href="./res/eCDFP_Certificate.pdf" target="_blank">eLearnSecurity Certified Digital Forensics Professional - eCDFP</a>__<br/>
 Achieved on: 22<sup>nd</sup> September 2022<br/> 
 Valid until: &infin;
+
+### Expired certifications
+- __<a href="./res/CCFH_Certificate.pdf" target="_blank">CrowdStrike Certified Falcon Hunter - CCFH</a>__<br/>
+Achieved on: 30<sup>th</sup> January 2023<br/>
+Valid until: 30<sup>th</sup> January 2026<br/>
 
 ## Skills
 
